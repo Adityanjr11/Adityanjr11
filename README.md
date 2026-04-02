@@ -20,7 +20,7 @@ Currently expanding my expertise in Machine Learning, Data Engineering, and Clou
 
 ## 🛠 Tech Stack
 Languages: Python, SQL  
-Data & Analytics: Pandas, NumPy, Matplotlib  
+Data & Analytics: Pandas, NumPy, MS Excel  
 Machine Learning: scikit-learn, Model Evaluation, Feature Engineering  
 Databases: MySQL, Microsoft SQL Server  
 Cloud & Data Engineering: Azure Data Factory, PySpark  
