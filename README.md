@@ -31,10 +31,8 @@ Tools: Git, GitHub, Jupyter Notebook
 
 ## 🚀 Featured Projects
 • Sales Analytics Dashboard – Business KPI analysis using SQL & Power BI  
-• End-to-End ML Project – Data cleaning, feature engineering, model training & evaluation  
-• Azure Data Pipeline – Bronze → Silver → Gold architecture using Azure & PySpark
+• End-to-End Data Pipeline – Data cleaning, feature engineering, model training & evaluation  
+• Excel Reporting
 
 ---
 
-## 🎯 Career Vision
-To grow into a high-impact AI Engineer building scalable, intelligent, and business-driven systems.
