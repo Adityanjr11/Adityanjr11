@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aditya Sharma
 
-💻 Data Analyst | 🐍 Python Developer | 🤖 Aspiring AI Engineer
+💻 Data Analyst | 💻 Data Engineer
 
 I build data-driven solutions that transform raw data into meaningful insights and business impact. With strong foundations in Python, SQL, and analytics, I focus on solving real-world problems through data exploration, visualization, and machine learning.
 
