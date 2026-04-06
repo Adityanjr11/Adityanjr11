@@ -14,7 +14,7 @@ Currently expanding my expertise in Machine Learning, Data Engineering, and Clou
 • Build interactive dashboards using Power BI  
 • Design optimized SQL queries (Joins, CTEs, Window Functions)  
 • Develop ML projects in Jupyter  
-• Work with Azure-based data pipelines (Medallion Architecture)
+
 
 ---
 
