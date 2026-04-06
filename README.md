@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Aditya Sharma
+# 👋 Hi, I'm Aditya 
 
 💻 Data Analyst | 💻 Data Engineer
 
