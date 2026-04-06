@@ -8,6 +8,17 @@ Data Analyst | Data Engineer | BI & Visualization
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=2E9EF7&center=true&vCenter=true&width=760&lines=Turning+Messy+Data+into+Insights+that+Drive+Decisions" />
 </p>
 
+
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Adityanjr11&theme=tokyonight" />
+</p>
+
 ---
 
 I turn raw, messy datasets into **actionable insights and business-ready dashboards**.  
