@@ -2,6 +2,13 @@
 
 💻 Data Analyst | 💻 Data Engineer
 
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=2E9EF7&center=true&vCenter=true&width=760&lines=Turning+Messy+Data+into+Stories+that+Drive+Smarter+Decision-Making!" />
+</p>
+
+
+
 I build data-driven solutions that transform raw data into meaningful insights and business impact. With strong foundations in Python, SQL, and analytics, I focus on solving real-world problems through data exploration, visualization, and machine learning.
 
 Currently expanding my expertise in Machine Learning, Data Engineering, and Cloud technologies (Azure/AWS) to transition into advanced AI-driven roles.
