@@ -32,7 +32,8 @@ Tools: Git, GitHub, Jupyter Notebook
 ## 🚀 Featured Projects
 • Sales Analytics Dashboard – Business KPI analysis using SQL & Power BI  
 • End-to-End Data Pipeline – Data cleaning, feature engineering, model training & evaluation  
-• Excel Reporting
+• SaaS Subsciption Churn Analysis
+• Loan Default Analysis
 
 ---
 
