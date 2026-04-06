@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aditya 
 
-💻 Data Analyst | 💻 Data Engineer
+Data Analyst  |  Data Engineer |  Business Intelligence & Data Visualization
 
 
 <p align="center">
